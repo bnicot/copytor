@@ -1,0 +1,17 @@
+{
+    "name": "brnicot/copytor",
+    "require": {
+        "monolog/monolog": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "lib\\": "lib/"
+        }
+    },
+    "authors": [
+        {
+            "name": "brnicot",
+            "email": "7538606+brnicot@users.noreply.github.com"
+        }
+    ]
+}
